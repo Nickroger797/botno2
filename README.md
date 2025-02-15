@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://lisbon-groupdocs-app.s3.us-west-2.amazonaws.com/Output/e870c656-081c-4133-85f9-545245521999/1000175849.gif?X-Amz-Expires=3600&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA4XIV7DNDGGIIQ4N7/20250215/us-west-2/s3/aws4_request&X-Amz-Date=20250215T082659Z&X-Amz-SignedHeaders=host&X-Amz-Signature=a76f865f9fd75d6f63f697bbe8a9a3f87a3a854db5a24d108bac2e1e4c1ad9c0" alt="Lazy Princess Logo">
+  <img src="https://jmp.sh/s/vxUQwy8D44wY7cQxXMYB" alt="Lazy Princess Logo">
 </p>
 <h1 align="center">
   <b> Lazy Princess BOT </b>
