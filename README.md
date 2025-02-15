@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://vault.pictures/p/6b391f21850347919e7f6b21df277b17" alt="Lazy Princess Logo">
+  <img src="https://i.imgur.com/qUQS5RA.jpeg" alt="Lazy Princess Logo">
 </p>
 <h1 align="center">
   <b> Lazy Princess BOT </b>
