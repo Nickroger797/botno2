@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://wallpaperaccess.com/download/4k-gif-5927911" alt="Lazy Princess Logo">
+  <img src="https://www.zamzar.com/files/019508c6-be27-737a-b67b-2a2d57d0182d/84825068/?tcs=z98" alt="Lazy Princess Logo">
 </p>
 <h1 align="center">
   <b> Lazy Princess BOT </b>
