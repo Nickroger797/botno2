@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://jmp.sh/s/vxUQwy8D44wY7cQxXMYB" alt="Lazy Princess Logo">
+  <img src="https://wallpaperaccess.com/download/4k-gif-5927911" alt="Lazy Princess Logo">
 </p>
 <h1 align="center">
   <b> Lazy Princess BOT </b>
