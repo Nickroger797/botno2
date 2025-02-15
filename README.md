@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://www.zamzar.com/files/019508c6-be27-737a-b67b-2a2d57d0182d/84825068/?tcs=z98" alt="Lazy Princess Logo">
+  <img src="https://media-hosting.imagekit.io//ad97fae748394cfb/5927911%20(2).gif?Expires=1834217169&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=YpylQ8f1yZAfJKN9UGPrewPrl6UC1qLBcvQNEB9fIFyvNU-HboWsBL8YvuZigo6ZXIDPnUaNTbU4min0xWXeXPAfmNzXuBY44PONywlOOPgVfOo8kFYzwGAtmdEMUToFsmhEMcts0PFs4zzrk33sQ3nSMOOJkNAmvnWJzhJiGGdTT-r4P9ExAhRdOwqoAWAxWafBqeO2b7dCZNVfsDwf9Hbz7TALTZoTFIhlRn6TcJnmAurrtP8imtWAGWtIzsUgH8ZCihe10WSfpdINK2ZWkKE6-DwW4FrrkMdo~6dzDJiyAreM2CgzhnJYVemvpILGVbfnZHijKtBXC4njQreXhQ__" alt="Lazy Princess Logo">
 </p>
 <h1 align="center">
   <b> Lazy Princess BOT </b>
