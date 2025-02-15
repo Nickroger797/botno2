@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media-hosting.imagekit.io//ad97fae748394cfb/5927911%20(2).gif?Expires=1834217169&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=YpylQ8f1yZAfJKN9UGPrewPrl6UC1qLBcvQNEB9fIFyvNU-HboWsBL8YvuZigo6ZXIDPnUaNTbU4min0xWXeXPAfmNzXuBY44PONywlOOPgVfOo8kFYzwGAtmdEMUToFsmhEMcts0PFs4zzrk33sQ3nSMOOJkNAmvnWJzhJiGGdTT-r4P9ExAhRdOwqoAWAxWafBqeO2b7dCZNVfsDwf9Hbz7TALTZoTFIhlRn6TcJnmAurrtP8imtWAGWtIzsUgH8ZCihe10WSfpdINK2ZWkKE6-DwW4FrrkMdo~6dzDJiyAreM2CgzhnJYVemvpILGVbfnZHijKtBXC4njQreXhQ__" alt="Lazy Princess Logo">
+  <img src="https://media-hosting.imagekit.io//baca1c4fa91b4648/1894518.gif?Expires=1834218076&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=rBveKpZDTA-WQaBgdn6qs7CRHZrn2evsSabimuI7U5K3oLCh9HdPMAlWGr871YMcJ3yCZCRZBdMO-Z2YP9ixPgPxytGc3of2EaWQXFIcDRoUNJRHnTAXCd7QEVvUod0QowgVtb5k8W~nvIiiG71n~0psH73y0eKaiXpslEg-Tt2bboArOiCz1ZjBrHH3OEmmyPHdL3e1SMLxOKMSrscPAI1Ax9OTz5UnlaB3M-c-KXZQ9kOQFC4GOckt-dAs7kzGqbOGL54Fty1efDjPHVWgYK76XA3LeqDC7E-dzfrfPvzOlIaWc1dFVFUYL85I4YeIP8~QNKM6jQxskLz5MQrPEQ__" alt="Lazy Princess Logo">
 </p>
 <h1 align="center">
   <b> Lazy Princess BOT </b>
